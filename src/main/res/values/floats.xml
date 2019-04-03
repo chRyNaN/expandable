@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <item name="expandable_layout_collapsed_value" format="float" type="dimen">0f</item>
-    <item name="expandable_layout_expanded_value" format="float" type="dimen">1f</item>
+    <item name="expandable_layout_collapsed_value" format="float" type="dimen">0.0</item>
+    <item name="expandable_layout_expanded_value" format="float" type="dimen">1.0</item>
 
 </resources>
